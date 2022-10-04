@@ -8,6 +8,9 @@ Preparare le lasagne alla bolognese
             - si va a fare la spesa
         - ALTRIMENTI se ci sono:
             - si prosegue
+    - accendere il forno e portarlo a temperatura
+    - prendere le padelle
+    - accendere i fornelli per prepare il ragu
     - prepazione del ragu:
         - preparare il soffritto di verdure e pancetta
             - SE sono passati 5-6 minuti:
@@ -23,7 +26,43 @@ Preparare le lasagne alla bolognese
                 - aggiugnere il brodo
             - ALTRIMENTI:
                 - aspettare
-        - 
+    - preparazione della pasta sfoglia
+        - versate gli spinaci in un tegame
+        - aggiungere poca acqua
+        - coprire con un coperchio
+        - SE sono cotti:
+            - scolateli
+            - lasciarli intiempidire
+            - strizzateli bene
+        - ALTRIMENTI:
+            - aspettiamo che sono cotti
+        - trasferire gli spinaci nel mixer e frullarli
+        - sulla spianatoia versate la semola e la farina 00
+        - aggiungere gli spinaci creando una forma a fontana
+        - unite le uova leggermente sbattatute
+        - iniziare ad impastare
+        - SE l'impasto è omogeneo:
+            - avvolgere il panetto e farlo riposare per 30 minuti
+        - ALTRIMENTI:
+            - continuare a impastare
+    - preparazione della besciamella
+        - mettere a scaldare il latte in un pentolino
+        - versiamo il burro in una pentola e facciamolo fondere
+        - aggiungere la farina 00 nella pentola
+        - aggiungere il latte nella pentola
+        - aggiungere il sale e la noce moscata
+        - mescolare
+            - SE è cremosa:
+               - continuare la ricetta
+            - ALTRIMETNI SE:
+               - continuare a mescolare
+        - assaggiare
+            - SE è sciapa:
+                - aggiungere sale o noce moscata a gradimento
+            - ALTRIMENTI:
+                - continua
+        - coprire con la pellicola trasparente
+
             
  - ALTRIMENTI 
     - la mangiamo
