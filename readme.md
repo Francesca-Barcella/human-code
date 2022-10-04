@@ -62,7 +62,19 @@ Preparare le lasagne alla bolognese
             - ALTRIMENTI:
                 - continua
         - coprire con la pellicola trasparente
-
-            
- - ALTRIMENTI 
-    - la mangiamo
+    - preparazione della pasta sfoglia con il tirapasta
+    - tagliare la sfoglia
+    - prendere una teglia
+    - imburrare il fondo della teglia
+    - aggiungere uno strato di pasta
+    - aggiungere la besciamella
+    - aggiungere il ragu
+    - ripetere i passaggi e riempire la teglia
+    - aggiungere il parmigiano grattuggiato
+    - infornare le lasagne a 170° per 40 minuti
+        - SE sono passati 40 minuti:
+        - controllare la cottura
+        - ALTRIMENTI:
+        - continuare la cottura
+- servire la lasagna
+- mangiare la lasagna
